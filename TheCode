@@ -1,11 +1,6 @@
 import java.util.Random;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author IA
- */
-  
 public class III8 {
 
 public static void main(String[] args){
